@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[16]:
-
-
 #Computing Practical 2 - Task 3
 
 score = int(input("Input score: "))
@@ -24,4 +18,3 @@ elif 0 <= score <= 35:
     print('U')
 else:
     print("Invalid! Score must be within 0 - 100.")
-
