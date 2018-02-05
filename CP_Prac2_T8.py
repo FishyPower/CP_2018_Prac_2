@@ -1,10 +1,4 @@
-
-# coding: utf-8
-
-# In[59]:
-
-
-# Computing Practical 2 - Task 8
+#Computing Practical 2 - Task 8
 
 student_number = int(input("Input number of students: "))
 
@@ -32,6 +26,3 @@ for i in range(student_number):
         name_2 = student_name[i]
         
 print("The highest scoring student is {0} with {1} marks. The second highest scoring student is {2} with {3} marks." .format(name_1, score_1, name_2, score_2))
-    
-    
-
