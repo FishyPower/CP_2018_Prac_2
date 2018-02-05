@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[15]:
-
-
 #Computing Practical 2 - Task 2
 
 a = int(input("Input side a: "))
@@ -26,4 +20,3 @@ if logic() == True:
     print("perimeter = " "{0}" .format(perimeter)) 
 else:
     print("Invalid triangle!")
-
