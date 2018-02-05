@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[18]:
-
-
 # Computing Practical 2 - Task 12
 
 integer = int(input("Input integer: "))
@@ -19,4 +13,3 @@ while integer >= factor:
         
 if integer == 1:
     print(factors)
-
